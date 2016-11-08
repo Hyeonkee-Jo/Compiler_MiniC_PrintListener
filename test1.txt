@@ -1,0 +1,3 @@
+int x=0;void main() {
+if(x>0	){ x=x	+1;}
+}
